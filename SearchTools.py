@@ -1,3 +1,4 @@
+# These are highly sub-optimal implementations, using lots of folders. Only to be used for demonstration.
 import numpy as np
 from scipy.spatial.distance import cdist
 import scipy.sparse as sps
